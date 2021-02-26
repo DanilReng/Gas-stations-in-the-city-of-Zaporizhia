@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Заправки Запорожья</string>
+    <string name="station">АЗС</string>
+    <string name="address">Адрес</string>
+    <string name="phone">Телефон</string>
+    <string name="description">Описание</string>
+</resources>
